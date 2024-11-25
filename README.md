@@ -1,16 +1,14 @@
-# shopping_list
+Shopping List App - Flutter Mobile Application
 
-A new Flutter project.
+Shopping List App is a simple and intuitive mobile application built with Flutter that helps users manage and organize their shopping lists. Whether you're grocery shopping, buying household items, or planning a special event, this app allows you to easily add, edit, and track your shopping items. The app provides a clean, user-friendly interface for efficient shopping list management.
 
-## Getting Started
+Features
+ * Add Items to Shopping List: Quickly add items to your shopping list with names and optional quantities or notes.
 
-This project is a starting point for a Flutter application.
+ * Edit and Delete Items: Easily update or remove items from your list at any time.
 
-A few resources to get you started if this is your first Flutter project:
+ * User-Friendly Interface: Simple and intuitive design using Flutter, optimized for both Android and iOS platforms.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ Tech Stack
+Frontend: Flutter (Dart)
+State Management: Riverpod 
